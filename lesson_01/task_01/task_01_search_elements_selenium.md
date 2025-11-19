@@ -1,6 +1,6 @@
 ### Задание: поиск элементов с помощью Selenium
 
-1. Открыть страницу https://suninjuly.github.io/simple_form_find_task.html.
+1. Открыть страницу: https://suninjuly.github.io/simple_form_find_task.html.
 2. Заполнить форму на этой странице с помощью Selenium.
 3. Получить окно с проверочным кодом и вручную скопировать его.
 4. Вручную закрыть окно.
