@@ -21,11 +21,8 @@
     - `task_04_search_elements_xpath.md`
     - `solution_04_search_elements_xpath.py`
   - `task_05/`
-    - `task_05_search_elements_xpath.md`
-    - `solution_05_search_elements_xpath.py`
-  - `task_06/`
-    - `task_06_unique_selectors.md`
-    - `solution_06_unique_selectors.py`
+    - `task_05_unique_selectors.md`
+    - `solution_05_unique_selectors.py`
 - `lesson_02/` – модуль 2: Полезные методы Selenium
   - `task_01/`
     - `task_01_checkboxes_radiobuttons.md`
@@ -42,6 +39,7 @@
   - `task_05/`
     - `task_05_uploading_files.md`
     - `solution_05_uploading_files.py`
+    - `file_for_task_05.txt`
   - `task_06/`
     - `task_06_alert.md`
     - `solution_06_alert.py`
