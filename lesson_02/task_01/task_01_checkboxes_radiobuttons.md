@@ -1,6 +1,6 @@
 ### Задание: кликаем по checkboxes и radiobuttons (капча для роботов)
 
-1. Открыть страницу https://suninjuly.github.io/math.html.
+1. Открыть страницу: https://suninjuly.github.io/math.html.
 2. Считать значение для переменной x.
 3. Посчитать математическую функцию от x (код для этого приведён ниже).
 ```python
