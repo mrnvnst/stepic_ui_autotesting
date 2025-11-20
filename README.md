@@ -39,7 +39,7 @@
   - `task_05/`
     - `task_05_uploading_files.md`
     - `solution_05_uploading_files.py`
-    - `file_for_task_05.py`
+    - `file_for_task_05.txt`
   - `task_06/`
     - `task_06_alert.md`
     - `solution_06_alert.py`
